@@ -21,20 +21,25 @@ Hack a simulated website in a safe, legal environment to get a hands-on feel for
 
 ---
 
-### 🧪 Steps Taken
+### 📚 Key Concepts Learned
 
-1. Launched the provided virtual machine (VM) with a simulated banking website called **FakeBank**.
-2. Opened the **Linux terminal** in the VM for command-line access.
-3. Ran the following Gobuster command to enumerate hidden directories:
+- **Offensive Security**: Simulating hacker behaviour to find vulnerabilities ethically.
+- **Brute-Forcing**: Using tools like Gobuster to discover hidden paths on a website.
+- **Web App Enumeration**: Scanning for hidden admin pages that could be exploited.
+- **Thinking like an attacker**: Understanding how hackers discover unsecured features in applications.
 
-gobuster -u http://fakebank.thm -w wordlist.txt dir
+---
 
+### 🌐 Real-World Application:
 
-- `-u` specifies the URL.
-- `-w` uses a wordlist of potential directories.
+Tools like **Gobuster** are commonly used by penetration testers to find hidden or vulnerable pages on websites. These pages can often be exploited by attackers if not properly secured, so identifying them is a key step in securing real-world applications.
 
-4. Found a hidden page: `/bank-transfer`.
-5. Accessed this page to simulate a transfer of money between accounts, replicating a typical vulnerability exploit.
+---
+
+### 🚧 Challenges Faced
+
+- First time using **Linux**, so navigating the terminal and understanding commands was new territory.
+- Needed to get used to reading terminal output and interpreting what each result meant.
 
 ---
 
@@ -44,13 +49,6 @@ gobuster -u http://fakebank.thm -w wordlist.txt dir
 - How ethical hackers use tools like **Gobuster** to uncover hidden areas of a website.
 - The basics of **web application penetration testing**.
 - The **importance of securing hidden pages**, which can be a major risk if exposed.
-
----
-
-### 🚧 Challenges Faced
-
-- First time using **Linux**, so navigating the terminal and understanding commands was new territory.
-- Needed to get used to reading terminal output and interpreting what each result meant.
 
 ---
 
