@@ -2,7 +2,7 @@
 
 **Room:** [Offensive Security Intro — TryHackMe](https://tryhackme.com/room/offensivesecurityintro)  
 **Status:** ✅ Completed  
-**Date:** *(29 March 2025)*  
+**Date:** *29 March 2025*  
 **Category:** Pre-Security → Introduction to Cyber Security  
 
 ---
