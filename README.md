@@ -11,11 +11,11 @@ Hack a simulated website in a safe, legal environment to get a hands-on feel for
 
 ---
 
-### 🗝️ Key Concepts
-- **Offensive Security**: Simulating hacker behaviour to find vulnerabilities ethically.
-- **Brute-Forcing**: Using tools like Gobuster to discover hidden paths on a website.
-- **Web App Enumeration**: Scanning for hidden admin pages that could be exploited.
-- **Thinking like an attacker**: Understanding how hackers discover unsecured features in applications.
+### 🗝️ Key Concepts  
+- **Offensive Security** – Simulating hacker behaviour to ethically find vulnerabilities.  
+- **Brute-Forcing** – Using tools like Gobuster to uncover hidden directories and files.  
+- **Web App Enumeration** – Scanning websites to locate admin panels or exploitable features.  
+- **Attacker Mindset** – Learning how hackers approach and identify weaknesses in applications.  
 
 ---
 
