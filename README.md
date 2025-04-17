@@ -41,7 +41,7 @@ Hack a simulated website in a safe, legal environment to get a hands-on feel for
 ---
 
 ### 🌐 Real-World Application:
-Tools like **Gobuster** are commonly used by penetration testers to find hidden or vulnerable pages on websites. These pages can often be exploited by attackers if not properly secured, so identifying them is a key step in securing real-world applications.
+> Tools like **Gobuster** are commonly used by penetration testers to find hidden or vulnerable pages on websites. These pages can often be exploited by attackers if not properly secured, so identifying them is a key step in securing real-world applications.
 
 ---
 
@@ -49,5 +49,3 @@ Tools like **Gobuster** are commonly used by penetration testers to find hidden 
 This was a really enjoyable first experience in hands-on hacking. It gave me a taste of the mindset needed to work in **Offensive Security** — where you're not just clicking around, you're thinking like an attacker. It also reinforced the importance of strong security practices for websites.
 
 The fact that a simple tool like Gobuster could uncover sensitive pages was eye-opening. I can see how, with permission, a penetration tester could help companies spot these weaknesses before real attackers do.
-
----
